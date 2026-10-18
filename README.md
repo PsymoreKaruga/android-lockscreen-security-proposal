@@ -19,5 +19,5 @@ Provide a system configuration option (`Settings > Security & Privacy > Lock Scr
 - Restrict sensitive quick settings tiles (Airplane Mode, Mobile Data, Hotspot, Location, Power Off) behind authentication.
 
 ## Tracking & References
-- **Google Issue Tracker:** [Link your submitted Issue Tracker URL here once created]
+- **Google Issue Tracker:** [https://issuetracker.google.com/issues/575053137]
 - **Target OS Component:** `SystemUI / Keyguard`
